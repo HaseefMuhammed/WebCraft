@@ -62,10 +62,12 @@ body {
   font-size: 36px;
   font-family: "Lato-Black";
   text-transform: uppercase;
-  background: -webkit-linear-gradient(left, #1d3ede, #01e6f8);
+  background-color: black;
+  color: black;
+  /* background: -webkit-linear-gradient(left, #1d3ede, #01e6f8);
   background: -ms-linear-gradient(left, #1d3ede, #01e6f8);
   background: -moz-linear-gradient(left, #1d3ede, #01e6f8);
-  background: -o-linear-gradient(left, #1d3ede, #01e6f8);
+  background: -o-linear-gradient(left, #1d3ede, #01e6f8); */
   -webkit-background-clip: text;
   -ms-background-clip: text;
   -o-background-clip: text;
